@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"xchg.ai/sse/nsq/nsqd"
-	"xchg.ai/sse/nsqshell/internal/app"
-	"xchg.ai/sse/nsqshell/internal/lg"
+	"github.com/hjiangsse/nsqshell/internal/app"
+	"github.com/hjiangsse/nsqshell/internal/lg"
 )
 
 type tlsRequiredOption int

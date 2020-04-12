@@ -1,4 +1,4 @@
-module xchg.ai/sse/nsqshell
+module github.com/hjiangsse/nsqshell
 
 go 1.13
 

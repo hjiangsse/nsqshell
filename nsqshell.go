@@ -11,7 +11,7 @@ import (
 	"github.com/BurntSushi/toml"
 	"github.com/mreiferson/go-options"
 	"xchg.ai/sse/nsq/nsqd"
-	"xchg.ai/sse/nsqshell/internal/version"
+	"github.com/hjiangsse/nsqshell/internal/version"
 )
 
 type program struct {
